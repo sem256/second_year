@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+#block{
+    margin: auto;
+    width: 600px;
+}
+.positionText{
+    position: absolute;
+    min-width: 400px;
+}
+.inputs{
+    padding:0 5px;
+    width: 150px;
+}
+input.invalid {
+    background-color: Pink;
+    padding:0 5px;
+    width: 150px;
+}
+input.valid {
+    background-color: LightGreen;
+    padding:0 5px;
+    width: 150px;
+}
+
+        

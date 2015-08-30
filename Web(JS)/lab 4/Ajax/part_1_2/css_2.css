@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    min-width: 400px;
+}
+
+.left_block {
+    float: left;
+    text-align: center;
+    width: 200px;
+    border: solid 2px black;
+}
+
+.right_block {
+    float: none;
+    text-align: center;
+    width: auto;
+    border: solid 2px black;
+}
+
+.chief_block {
+    width: 400px;
+    margin: auto;
+}
