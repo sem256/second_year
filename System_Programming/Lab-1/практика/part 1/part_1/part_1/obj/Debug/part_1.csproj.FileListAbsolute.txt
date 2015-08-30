@@ -1,0 +1,18 @@
+E:\уроки\системное програмирование\Lab-1\практика\part 1\part_1\part_1\bin\Debug\part_1.exe.config
+E:\уроки\системное програмирование\Lab-1\практика\part 1\part_1\part_1\bin\Debug\part_1.exe
+E:\уроки\системное програмирование\Lab-1\практика\part 1\part_1\part_1\bin\Debug\part_1.pdb
+E:\уроки\системное програмирование\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.csprojResolveAssemblyReference.cache
+E:\уроки\системное програмирование\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.Form1.resources
+E:\уроки\системное програмирование\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.Properties.Resources.resources
+E:\уроки\системное програмирование\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.csproj.GenerateResource.Cache
+E:\уроки\системное програмирование\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.exe
+E:\уроки\системное програмирование\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.pdb
+E:\уроки\сисПрога\Lab-1\практика\part 1\part_1\part_1\bin\Debug\part_1.exe.config
+E:\уроки\сисПрога\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.exe
+E:\уроки\сисПрога\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.pdb
+E:\уроки\сисПрога\Lab-1\практика\part 1\part_1\part_1\bin\Debug\part_1.exe
+E:\уроки\сисПрога\Lab-1\практика\part 1\part_1\part_1\bin\Debug\part_1.pdb
+E:\уроки\сисПрога\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.Form1.resources
+E:\уроки\сисПрога\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.Properties.Resources.resources
+E:\уроки\сисПрога\Lab-1\практика\part 1\part_1\part_1\obj\Debug\part_1.csproj.GenerateResource.Cache

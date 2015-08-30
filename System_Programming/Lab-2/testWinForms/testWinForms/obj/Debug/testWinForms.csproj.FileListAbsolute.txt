@@ -1,0 +1,9 @@
+E:\уроки\сисПрога\Lab-2\testWinForms\testWinForms\bin\Debug\testWinForms.exe.config
+E:\уроки\сисПрога\Lab-2\testWinForms\testWinForms\bin\Debug\testWinForms.exe
+E:\уроки\сисПрога\Lab-2\testWinForms\testWinForms\bin\Debug\testWinForms.pdb
+E:\уроки\сисПрога\Lab-2\testWinForms\testWinForms\obj\Debug\testWinForms.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-2\testWinForms\testWinForms\obj\Debug\testWinForms.Form1.resources
+E:\уроки\сисПрога\Lab-2\testWinForms\testWinForms\obj\Debug\testWinForms.Properties.Resources.resources
+E:\уроки\сисПрога\Lab-2\testWinForms\testWinForms\obj\Debug\testWinForms.csproj.GenerateResource.Cache
+E:\уроки\сисПрога\Lab-2\testWinForms\testWinForms\obj\Debug\testWinForms.exe
+E:\уроки\сисПрога\Lab-2\testWinForms\testWinForms\obj\Debug\testWinForms.pdb

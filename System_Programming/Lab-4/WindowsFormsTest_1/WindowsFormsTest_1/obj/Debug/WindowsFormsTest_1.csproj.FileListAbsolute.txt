@@ -1,0 +1,9 @@
+E:\уроки\сисПрога\Lab-4\WindowsFormsTest_1\WindowsFormsTest_1\bin\Debug\WindowsFormsTest_1.exe.config
+E:\уроки\сисПрога\Lab-4\WindowsFormsTest_1\WindowsFormsTest_1\obj\Debug\WindowsFormsTest_1.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-4\WindowsFormsTest_1\WindowsFormsTest_1\obj\Debug\WindowsFormsTest_1.Form1.resources
+E:\уроки\сисПрога\Lab-4\WindowsFormsTest_1\WindowsFormsTest_1\obj\Debug\WindowsFormsTest_1.Properties.Resources.resources
+E:\уроки\сисПрога\Lab-4\WindowsFormsTest_1\WindowsFormsTest_1\obj\Debug\WindowsFormsTest_1.csproj.GenerateResource.Cache
+E:\уроки\сисПрога\Lab-4\WindowsFormsTest_1\WindowsFormsTest_1\bin\Debug\WindowsFormsTest_1.exe
+E:\уроки\сисПрога\Lab-4\WindowsFormsTest_1\WindowsFormsTest_1\bin\Debug\WindowsFormsTest_1.pdb
+E:\уроки\сисПрога\Lab-4\WindowsFormsTest_1\WindowsFormsTest_1\obj\Debug\WindowsFormsTest_1.exe
+E:\уроки\сисПрога\Lab-4\WindowsFormsTest_1\WindowsFormsTest_1\obj\Debug\WindowsFormsTest_1.pdb

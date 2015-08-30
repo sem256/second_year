@@ -1,0 +1,8 @@
+E:\уроки\сисПрога\Lab-4\WindowsServicePart_4\WindowsServicePart_4\bin\Debug\WindowsServicePart_4.exe.config
+E:\уроки\сисПрога\Lab-4\WindowsServicePart_4\WindowsServicePart_4\bin\Debug\WindowsServicePart_4.exe
+E:\уроки\сисПрога\Lab-4\WindowsServicePart_4\WindowsServicePart_4\bin\Debug\WindowsServicePart_4.pdb
+E:\уроки\сисПрога\Lab-4\WindowsServicePart_4\WindowsServicePart_4\obj\Debug\WindowsServicePart_4.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-4\WindowsServicePart_4\WindowsServicePart_4\obj\Debug\WindowsServicePart_4.exe
+E:\уроки\сисПрога\Lab-4\WindowsServicePart_4\WindowsServicePart_4\obj\Debug\WindowsServicePart_4.pdb
+E:\уроки\сисПрога\Lab-4\WindowsServicePart_4\WindowsServicePart_4\obj\Debug\WindowsServicePart_4.ProjectInstaller.resources
+E:\уроки\сисПрога\Lab-4\WindowsServicePart_4\WindowsServicePart_4\obj\Debug\WindowsServicePart_4.csproj.GenerateResource.Cache

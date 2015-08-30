@@ -1,0 +1,9 @@
+E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Release\Lab_3.exe.config
+E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Release\Lab_3.exe
+E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Release\Lab_3.pdb
+E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\obj\Release\Lab_3.ProjectInstaller.resources
+E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\obj\Release\Lab_3.Service1.resources
+E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\obj\Release\Lab_3.csproj.GenerateResource.Cache
+E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\obj\Release\Lab_3.exe
+E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\obj\Release\Lab_3.pdb
+E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\obj\Release\Lab_3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\уроки\сисПрога\Lab-6\ASP\ASP\bin\ASP.dll
+E:\уроки\сисПрога\Lab-6\ASP\ASP\bin\ASP.pdb
+E:\уроки\сисПрога\Lab-6\ASP\ASP\obj\Debug\ASP.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-6\ASP\ASP\obj\Debug\ASP.dll
+E:\уроки\сисПрога\Lab-6\ASP\ASP\obj\Debug\ASP.pdb

@@ -1,0 +1,8 @@
+E:\уроки\сисПрога\Lab-4\WindowsServiceInstalShield\WindowsServiceInstalShield\bin\Debug\WindowsServiceInstalShield.exe.config
+E:\уроки\сисПрога\Lab-4\WindowsServiceInstalShield\WindowsServiceInstalShield\bin\Debug\WindowsServiceInstalShield.exe
+E:\уроки\сисПрога\Lab-4\WindowsServiceInstalShield\WindowsServiceInstalShield\bin\Debug\WindowsServiceInstalShield.pdb
+E:\уроки\сисПрога\Lab-4\WindowsServiceInstalShield\WindowsServiceInstalShield\obj\Debug\WindowsServiceInstalShield.exe
+E:\уроки\сисПрога\Lab-4\WindowsServiceInstalShield\WindowsServiceInstalShield\obj\Debug\WindowsServiceInstalShield.pdb
+E:\уроки\сисПрога\Lab-4\WindowsServiceInstalShield\WindowsServiceInstalShield\obj\Debug\WindowsServiceInstalShield.ProjectInstaller.resources
+E:\уроки\сисПрога\Lab-4\WindowsServiceInstalShield\WindowsServiceInstalShield\obj\Debug\WindowsServiceInstalShield.csproj.GenerateResource.Cache
+E:\уроки\сисПрога\Lab-4\WindowsServiceInstalShield\WindowsServiceInstalShield\obj\Debug\WindowsServiceInstalShield.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\уроки\сисПрога\Lab-4\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+E:\уроки\сисПрога\Lab-4\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.exe
+E:\уроки\сисПрога\Lab-4\ConsoleClient\ConsoleClient\bin\Debug\ConsoleClient.pdb
+E:\уроки\сисПрога\Lab-4\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.exe
+E:\уроки\сисПрога\Lab-4\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.pdb
+E:\уроки\сисПрога\Lab-4\ConsoleClient\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache

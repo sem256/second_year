@@ -1,0 +1,7 @@
+E:\уроки\сисПрога\Lab-3\ConsoleTCPListner\ConsoleTCPListner\bin\Debug\ConsoleTCPListner.exe.config
+E:\уроки\сисПрога\Lab-4\ConsoleTCPListner\ConsoleTCPListner\bin\Debug\ConsoleTCPListner.exe.config
+E:\уроки\сисПрога\Lab-4\ConsoleTCPListner\ConsoleTCPListner\bin\Debug\ConsoleTCPListner.exe
+E:\уроки\сисПрога\Lab-4\ConsoleTCPListner\ConsoleTCPListner\bin\Debug\ConsoleTCPListner.pdb
+E:\уроки\сисПрога\Lab-4\ConsoleTCPListner\ConsoleTCPListner\obj\Debug\ConsoleTCPListner.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-4\ConsoleTCPListner\ConsoleTCPListner\obj\Debug\ConsoleTCPListner.exe
+E:\уроки\сисПрога\Lab-4\ConsoleTCPListner\ConsoleTCPListner\obj\Debug\ConsoleTCPListner.pdb

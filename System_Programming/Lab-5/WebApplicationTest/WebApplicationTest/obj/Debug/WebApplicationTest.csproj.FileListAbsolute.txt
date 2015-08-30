@@ -1,0 +1,5 @@
+E:\уроки\сисПрога\Lab-5\WebApplicationTest\WebApplicationTest\bin\WebApplicationTest.dll
+E:\уроки\сисПрога\Lab-5\WebApplicationTest\WebApplicationTest\bin\WebApplicationTest.pdb
+E:\уроки\сисПрога\Lab-5\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-5\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.dll
+E:\уроки\сисПрога\Lab-5\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.pdb

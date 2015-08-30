@@ -1,0 +1,62 @@
+﻿Выполняется удаление сборки 'E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+Выполняется удаление источника EventLog Task_Queue.
+Предупреждение. Источник Task_Queue не зарегистрирован на локальном компьютере.
+Выполняется удаление службы Task_Queue из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+Выполняется удаление источника EventLog Task_Queue.
+Выполняется удаление службы Task_Queue из системы...
+Служба Task_Queue успешно удалена из системы.
+Выполняется установка сборки 'E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+Устанавливается служба Task_Queue...
+Служба Task_Queue успешно установлена.
+Создается исходный EventLog Task_Queue в журнале Application...
+Выполняется фиксация сборки 'E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+Выполняется удаление сборки 'E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+Выполняется удаление источника EventLog Task_Queue.
+Выполняется удаление службы Task_Queue из системы...
+Служба Task_Queue успешно удалена из системы.
+Выполняется установка сборки 'E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+Устанавливается служба Task_Queue...
+Служба Task_Queue успешно установлена.
+Создается исходный EventLog Task_Queue в журнале Application...
+Выполняется фиксация сборки 'E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+Выполняется удаление сборки 'E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+Выполняется удаление источника EventLog Task_Queue.
+Выполняется удаление службы Task_Queue из системы...
+Служба Task_Queue успешно удалена из системы.
+Попытка останова службы Task_Queue.

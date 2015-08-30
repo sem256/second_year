@@ -1,0 +1,6 @@
+E:\уроки\сисПрога\Lab-3\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+E:\уроки\сисПрога\Lab-3\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+E:\уроки\сисПрога\Lab-3\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+E:\уроки\сисПрога\Lab-3\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+E:\уроки\сисПрога\Lab-3\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
+E:\уроки\сисПрога\Lab-3\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache

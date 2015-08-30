@@ -1,0 +1,11 @@
+E:\уроки\системное програмирование\Lab-1\практика\part 7\part 7\part 7\bin\Debug\part 7.exe.config
+E:\уроки\системное програмирование\Lab-1\практика\part 7\part 7\part 7\bin\Debug\part 7.exe
+E:\уроки\системное програмирование\Lab-1\практика\part 7\part 7\part 7\bin\Debug\part 7.pdb
+E:\уроки\системное програмирование\Lab-1\практика\part 7\part 7\part 7\obj\Debug\part 7.exe
+E:\уроки\системное програмирование\Lab-1\практика\part 7\part 7\part 7\obj\Debug\part 7.pdb
+E:\уроки\сисПрога\Lab-1\практика\part 7\part 7\part 7\bin\Debug\part 7.exe.config
+E:\уроки\сисПрога\Lab-1\практика\part 7\part 7\part 7\obj\Debug\part 7.exe
+E:\уроки\сисПрога\Lab-1\практика\part 7\part 7\part 7\obj\Debug\part 7.pdb
+E:\уроки\сисПрога\Lab-1\практика\part 7\part 7\part 7\bin\Debug\part 7.exe
+E:\уроки\сисПрога\Lab-1\практика\part 7\part 7\part 7\bin\Debug\part 7.pdb
+E:\уроки\сисПрога\Lab-1\практика\part 7\part 7\part 7\obj\Debug\part 7.csprojResolveAssemblyReference.cache

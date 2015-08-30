@@ -1,0 +1,11 @@
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.pdb
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\Library_3.dll
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\Library_3.pdb
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.exe
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\KI3_Class_2.dll
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\KI3_Class_1.dll
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\KI3_Class_2.pdb
+E:\уроки\сисПрога\Lab-6\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\KI3_Class_1.pdb

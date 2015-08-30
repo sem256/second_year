@@ -1,0 +1,5 @@
+1. (Get-Service -name Dns*).Count
+2. Get-Service -name Dns* | ForEach-Object {Stop-Service $_.Name -Verbose}
+3. Get-Service -name Dns* | ft -AutoSize
+4. Get-Service | ft -AutoSize
+

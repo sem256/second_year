@@ -1,0 +1,8 @@
+E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe.config
+E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.exe
+E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\bin\Debug\WindowsServiceK.pdb
+E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\obj\Debug\WindowsServiceK.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\obj\Debug\WindowsServiceK.ProjectInstaller.resources
+E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\obj\Debug\WindowsServiceK.csproj.GenerateResource.Cache
+E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\obj\Debug\WindowsServiceK.exe
+E:\уроки\сисПрога\Lab-3\WindowsServiceK\WindowsServiceK\obj\Debug\WindowsServiceK.pdb

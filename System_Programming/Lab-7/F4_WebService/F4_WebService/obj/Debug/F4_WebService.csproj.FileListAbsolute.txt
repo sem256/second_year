@@ -1,0 +1,11 @@
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\bin\F4_WebService.dll
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\bin\F4_WebService.pdb
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\bin\Library_4.dll
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\bin\KI3_Class_2.dll
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\bin\KI3_Class_1.dll
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\bin\Library_4.pdb
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\bin\KI3_Class_2.pdb
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\bin\KI3_Class_1.pdb
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.dll
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.pdb
+E:\уроки\сисПрога\Lab-7\F4_WebService\F4_WebService\obj\Debug\F4_WebService.csprojResolveAssemblyReference.cache

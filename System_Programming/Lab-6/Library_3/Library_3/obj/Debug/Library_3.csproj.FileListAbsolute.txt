@@ -1,0 +1,9 @@
+E:\уроки\сисПрога\Lab-6\Library_3\Library_3\bin\Debug\Library_3.dll
+E:\уроки\сисПрога\Lab-6\Library_3\Library_3\bin\Debug\Library_3.pdb
+E:\уроки\сисПрога\Lab-6\Library_3\Library_3\bin\Debug\KI3_Class_1.dll
+E:\уроки\сисПрога\Lab-6\Library_3\Library_3\bin\Debug\KI3_Class_2.dll
+E:\уроки\сисПрога\Lab-6\Library_3\Library_3\bin\Debug\KI3_Class_1.pdb
+E:\уроки\сисПрога\Lab-6\Library_3\Library_3\bin\Debug\KI3_Class_2.pdb
+E:\уроки\сисПрога\Lab-6\Library_3\Library_3\obj\Debug\Library_3.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-6\Library_3\Library_3\obj\Debug\Library_3.dll
+E:\уроки\сисПрога\Lab-6\Library_3\Library_3\obj\Debug\Library_3.pdb

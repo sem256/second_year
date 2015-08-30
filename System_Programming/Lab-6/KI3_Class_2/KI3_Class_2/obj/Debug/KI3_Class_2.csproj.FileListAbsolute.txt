@@ -1,0 +1,7 @@
+E:\уроки\сисПрога\Lab-6\KI3_Class_2\KI3_Class_2\bin\Debug\KI3_Class_2.dll
+E:\уроки\сисПрога\Lab-6\KI3_Class_2\KI3_Class_2\bin\Debug\KI3_Class_2.pdb
+E:\уроки\сисПрога\Lab-6\KI3_Class_2\KI3_Class_2\bin\Debug\KI3_Class_1.dll
+E:\уроки\сисПрога\Lab-6\KI3_Class_2\KI3_Class_2\bin\Debug\KI3_Class_1.pdb
+E:\уроки\сисПрога\Lab-6\KI3_Class_2\KI3_Class_2\obj\Debug\KI3_Class_2.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-6\KI3_Class_2\KI3_Class_2\obj\Debug\KI3_Class_2.dll
+E:\уроки\сисПрога\Lab-6\KI3_Class_2\KI3_Class_2\obj\Debug\KI3_Class_2.pdb

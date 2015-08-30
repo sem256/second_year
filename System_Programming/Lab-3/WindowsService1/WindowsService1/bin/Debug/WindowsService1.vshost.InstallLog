@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'E:\уроки\сисПрога\Lab-3\WindowsService1\WindowsService1\bin\Debug\WindowsService1.vshost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\WindowsService1\WindowsService1\bin\Debug\WindowsService1.vshost.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\WindowsService1\WindowsService1\bin\Debug\WindowsService1.vshost.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке E:\уроки\сисПрога\Lab-3\WindowsService1\WindowsService1\bin\Debug\WindowsService1.vshost.exe.
+Выполняется фиксация сборки 'E:\уроки\сисПрога\Lab-3\WindowsService1\WindowsService1\bin\Debug\WindowsService1.vshost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\уроки\сисПрога\Lab-3\WindowsService1\WindowsService1\bin\Debug\WindowsService1.vshost.InstallLog
+   assemblypath = E:\уроки\сисПрога\Lab-3\WindowsService1\WindowsService1\bin\Debug\WindowsService1.vshost.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке E:\уроки\сисПрога\Lab-3\WindowsService1\WindowsService1\bin\Debug\WindowsService1.vshost.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.

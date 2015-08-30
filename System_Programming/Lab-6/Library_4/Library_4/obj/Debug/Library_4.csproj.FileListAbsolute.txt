@@ -1,0 +1,8 @@
+E:\уроки\сисПрога\Lab-6\Library_4\Library_4\bin\Debug\Library_4.dll
+E:\уроки\сисПрога\Lab-6\Library_4\Library_4\bin\Debug\Library_4.pdb
+E:\уроки\сисПрога\Lab-6\Library_4\Library_4\bin\Debug\KI3_Class_2.dll
+E:\уроки\сисПрога\Lab-6\Library_4\Library_4\bin\Debug\KI3_Class_1.dll
+E:\уроки\сисПрога\Lab-6\Library_4\Library_4\bin\Debug\KI3_Class_2.pdb
+E:\уроки\сисПрога\Lab-6\Library_4\Library_4\bin\Debug\KI3_Class_1.pdb
+E:\уроки\сисПрога\Lab-6\Library_4\Library_4\obj\Debug\Library_4.dll
+E:\уроки\сисПрога\Lab-6\Library_4\Library_4\obj\Debug\Library_4.pdb

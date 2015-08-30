@@ -1,0 +1,5 @@
+E:\уроки\сисПрога\Lab-5\WebApplicationLab-5\WebApplicationLab-5\bin\WebApplicationLab-5.dll
+E:\уроки\сисПрога\Lab-5\WebApplicationLab-5\WebApplicationLab-5\bin\WebApplicationLab-5.pdb
+E:\уроки\сисПрога\Lab-5\WebApplicationLab-5\WebApplicationLab-5\obj\Debug\WebApplicationLab-5.dll
+E:\уроки\сисПрога\Lab-5\WebApplicationLab-5\WebApplicationLab-5\obj\Debug\WebApplicationLab-5.pdb
+E:\уроки\сисПрога\Lab-5\WebApplicationLab-5\WebApplicationLab-5\obj\Debug\WebApplicationLab-5.csprojResolveAssemblyReference.cache

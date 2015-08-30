@@ -1,0 +1,6 @@
+E:\уроки\сисПрога\Lab-4\ConsoleTestAplication\ConsoleTestAplication\bin\Debug\ConsoleTestAplication.exe.config
+E:\уроки\сисПрога\Lab-4\ConsoleTestAplication\ConsoleTestAplication\bin\Debug\ConsoleTestAplication.exe
+E:\уроки\сисПрога\Lab-4\ConsoleTestAplication\ConsoleTestAplication\bin\Debug\ConsoleTestAplication.pdb
+E:\уроки\сисПрога\Lab-4\ConsoleTestAplication\ConsoleTestAplication\obj\Debug\ConsoleTestAplication.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-4\ConsoleTestAplication\ConsoleTestAplication\obj\Debug\ConsoleTestAplication.exe
+E:\уроки\сисПрога\Lab-4\ConsoleTestAplication\ConsoleTestAplication\obj\Debug\ConsoleTestAplication.pdb

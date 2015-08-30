@@ -1,0 +1,22 @@
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\bin\Debug\part 2.exe.config
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\bin\Debug\part 2.exe
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\bin\Debug\part 2.pdb
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part_2.Form1.resources
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part_2.Form2.resources
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part_2.Properties.Resources.resources
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part 2.csproj.GenerateResource.Cache
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part 2.exe
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part 2.pdb
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part_2.Form3.resources
+E:\уроки\системное програмирование\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part 2.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\bin\Debug\part 2.exe.config
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part 2.exe
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part 2.pdb
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\bin\Debug\part 2.exe
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\bin\Debug\part 2.pdb
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part 2.csprojResolveAssemblyReference.cache
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part_2.Form1.resources
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part_2.Form2.resources
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part_2.Form3.resources
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part_2.Properties.Resources.resources
+E:\уроки\сисПрога\Lab-1\практика\part 2\part 2\part 2\obj\Debug\part 2.csproj.GenerateResource.Cache

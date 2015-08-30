@@ -1,0 +1,9 @@
+E:\уроки\сисПрога\Lab-7\WindowsFormsApplicationWCF\WindowsFormsApplicationWCF\obj\Debug\WindowsFormsApplicationWCF.Form1.resources
+E:\уроки\сисПрога\Lab-7\WindowsFormsApplicationWCF\WindowsFormsApplicationWCF\obj\Debug\WindowsFormsApplicationWCF.Properties.Resources.resources
+E:\уроки\сисПрога\Lab-7\WindowsFormsApplicationWCF\WindowsFormsApplicationWCF\obj\Debug\WindowsFormsApplicationWCF.csproj.GenerateResource.Cache
+E:\уроки\сисПрога\Lab-7\WindowsFormsApplicationWCF\WindowsFormsApplicationWCF\bin\Debug\WindowsFormsApplicationWCF.exe.config
+E:\уроки\сисПрога\Lab-7\WindowsFormsApplicationWCF\WindowsFormsApplicationWCF\bin\Debug\WindowsFormsApplicationWCF.exe
+E:\уроки\сисПрога\Lab-7\WindowsFormsApplicationWCF\WindowsFormsApplicationWCF\bin\Debug\WindowsFormsApplicationWCF.pdb
+E:\уроки\сисПрога\Lab-7\WindowsFormsApplicationWCF\WindowsFormsApplicationWCF\obj\Debug\WindowsFormsApplicationWCF.exe
+E:\уроки\сисПрога\Lab-7\WindowsFormsApplicationWCF\WindowsFormsApplicationWCF\obj\Debug\WindowsFormsApplicationWCF.pdb
+E:\уроки\сисПрога\Lab-7\WindowsFormsApplicationWCF\WindowsFormsApplicationWCF\obj\Debug\WindowsFormsApplicationWCF.csprojResolveAssemblyReference.cache
